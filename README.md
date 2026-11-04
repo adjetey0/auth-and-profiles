@@ -1,2 +1,2 @@
-............A simple authentication system built with Supabase and Node.js/Express. This project demonstrates how to implement user sign-up, login, logout, and profile management securely using Supabase Auth, Row Level Security (RLS), and a profiles table
+.............A simple authentication system built with Supabase and Node.js/Express. This project demonstrates how to implement user sign-up, login, logout, and profile management securely using Supabase Auth, Row Level Security (RLS), and a profiles table
 .
